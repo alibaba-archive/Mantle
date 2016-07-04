@@ -26,9 +26,9 @@ const NSInteger MTLManagedObjectAdapterErrorInvalidManagedObjectMapping = 8;
 
 // Performs the given block in the context's queue, if it has one.
 static id performInContext(NSManagedObjectContext *context, id (^block)(void)) {
-	if (context.concurrencyType == NSConfinementConcurrencyType) {
-		return block();
-	}
+//	if (context.concurrencyType == NSConfinementConcurrencyType) {
+//		return block();
+//	}
 
 	__block id result = nil;
 	[context performBlockAndWait:^{
