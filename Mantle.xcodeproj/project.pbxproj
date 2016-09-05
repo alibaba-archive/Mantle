@@ -99,10 +99,8 @@
 		E53522331D2A66C800ACCBE8 /* MTLManagedObjectAdapter.h in Headers */ = {isa = PBXBuildFile; fileRef = E518DC4E1D22608E00606FE6 /* MTLManagedObjectAdapter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E53522341D2A66C800ACCBE8 /* MTLJSONAdapter.h in Headers */ = {isa = PBXBuildFile; fileRef = D01BD09B16CB432D00EC95C7 /* MTLJSONAdapter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E53522351D2A66C800ACCBE8 /* NSArray+MTLManipulationAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 88080C16160A706900CCABF2 /* NSArray+MTLManipulationAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E53522361D2A66C800ACCBE8 /* NSError+MTLModelException.h in Headers */ = {isa = PBXBuildFile; fileRef = 54803A30178829A700011B39 /* NSError+MTLModelException.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E53522371D2A66C800ACCBE8 /* NSDictionary+MTLManipulationAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = D0C27D0816110973002FE587 /* NSDictionary+MTLManipulationAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E53522381D2A66C800ACCBE8 /* NSDictionary+MTLMappingAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 547F78531822BCFD00BBAB7B /* NSDictionary+MTLMappingAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E53522391D2A66C800ACCBE8 /* NSDictionary+MTLJSONKeyPath.h in Headers */ = {isa = PBXBuildFile; fileRef = 54EDCD0818D9B34F005796FC /* NSDictionary+MTLJSONKeyPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E535223A1D2A66C800ACCBE8 /* NSObject+MTLComparisonAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 1ED5B5CE163A4E3C0072668E /* NSObject+MTLComparisonAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E535223B1D2A66C800ACCBE8 /* NSValueTransformer+MTLInversionAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = D0BFC36D17476B4700F5DC5D /* NSValueTransformer+MTLInversionAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E535223C1D2A66C800ACCBE8 /* NSValueTransformer+MTLPredefinedTransformerAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = D0F117471614C5600092520B /* NSValueTransformer+MTLPredefinedTransformerAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -475,10 +473,8 @@
 				E53522331D2A66C800ACCBE8 /* MTLManagedObjectAdapter.h in Headers */,
 				E53522341D2A66C800ACCBE8 /* MTLJSONAdapter.h in Headers */,
 				E53522351D2A66C800ACCBE8 /* NSArray+MTLManipulationAdditions.h in Headers */,
-				E53522361D2A66C800ACCBE8 /* NSError+MTLModelException.h in Headers */,
 				E53522371D2A66C800ACCBE8 /* NSDictionary+MTLManipulationAdditions.h in Headers */,
 				E53522381D2A66C800ACCBE8 /* NSDictionary+MTLMappingAdditions.h in Headers */,
-				E53522391D2A66C800ACCBE8 /* NSDictionary+MTLJSONKeyPath.h in Headers */,
 				E535223A1D2A66C800ACCBE8 /* NSObject+MTLComparisonAdditions.h in Headers */,
 				E535223B1D2A66C800ACCBE8 /* NSValueTransformer+MTLInversionAdditions.h in Headers */,
 				E535223C1D2A66C800ACCBE8 /* NSValueTransformer+MTLPredefinedTransformerAdditions.h in Headers */,
